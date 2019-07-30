@@ -55,11 +55,11 @@ Oyunun kuralları konusunda biraz karışıklık var, farklı sitelerde farklı 
 
 1. Kura neticesinde başlama hakkı kazanan oyuncu kendi bölgesinde bulunan istediği kuyudan 4 adet taşı alır. Bir adet taşı aldığı kuyuya bırakıp saatin tersi yönünde, yani sağa doğru her bir kuyuya birer adet taş bırakarak elindeki taşlar bitene kadar dağıtır. Elindeki son taş hazinesine denk gelirse, oyuncu tekrar oynama hakkına sahip olur. Oyuncunun kuyusunda tek taş varsa, sırası geldiğinde bu taşı sağındaki kuyuya taşıyabilir. Hamle sırası rakibine geçer. Her seferinde oyuncunun elinde kalan son taş oyunun kaderini belirler.
 
-2. TEMEL KURAL: Hamle sırası gelen oyuncu kendi kuyusundan aldığı taşları dağıtırken elinde taş kaldıysa, rakibinin bölgesindeki kuyulara da taş bırakmaya devam eder. Oyuncunun elindeki son taş, rakibinin bölgesinde denk geldiği kuyudaki taşların sayısını çift sayı yaparsa (2, 4, 6, 8 gibi) oyuncu bu kuyuda yer alan tüm taşların sahibi olur ve onları kendi hazinesine koyar. Hamle sırası rakibine geçer.
+2. Hamle sırası gelen oyuncu kendi kuyusundan aldığı taşları dağıtırken elinde taş kaldıysa, rakibinin bölgesindeki kuyulara da taş bırakmaya devam eder. Oyuncunun elindeki son taş, rakibinin bölgesinde denk geldiği kuyudaki taşların sayısını çift sayı yaparsa (2, 4, 6, 8 gibi) oyuncu bu kuyuda yer alan tüm taşların sahibi olur ve onları kendi hazinesine koyar. Hamle sırası rakibine geçer.
 
-3. TEMEL KURAL: Oyuncu taşları dağıtırken elinde kalan son taş, yine kendi bölgesinde yer alan boş bir kuyuya denk gelirse ve eğer boş kuyusunun karşısındaki kuyuda da rakibine ait taş varsa, hem rakibinin kuyusundaki taşları alır, hem de kendi boş kuyusuna bıraktığı taşı alıp hazinesine koyar. Hamle sırası rakibine geçer.
+3. Oyuncu taşları dağıtırken elinde kalan son taş, yine kendi bölgesinde yer alan boş bir kuyuya denk gelirse ve eğer boş kuyusunun karşısındaki kuyuda da rakibine ait taş varsa, hem rakibinin kuyusundaki taşları alır, hem de kendi boş kuyusuna bıraktığı taşı alıp hazinesine koyar. Hamle sırası rakibine geçer.
 
-4. TEMEL KURAL: Oyunculardan herhangi birinin bölgesinde yer alan taşlar bittiğinde oyun seti biter. Oyunda kendi bölgesinde taşları ilk biten oyuncu, rakibinin bölgesinde bulunan tüm taşları da kazanır. Dolayısıyla, oyunun dinamiği son ana kadar hiç düşmez.
+4. Oyunculardan herhangi birinin bölgesinde yer alan taşlar bittiğinde oyun seti biter. Oyunda kendi bölgesinde taşları ilk biten oyuncu, rakibinin bölgesinde bulunan tüm taşları da kazanır. Dolayısıyla, oyunun dinamiği son ana kadar hiç düşmez.
 
 Mangala Oyunu 5 set olarak oynanır.
 
