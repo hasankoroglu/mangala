@@ -1,0 +1,114 @@
+div.woodenBG {
+  background: transparent url("../img/wood.jpg") no-repeat right top;
+  width: 1280px;
+  height: 400px;
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  border-radius: 10px;
+}
+
+div.woodenBG > div:first-child,
+div.woodenBG > div:last-child {
+  width: 160px;
+  height: 400px;
+}
+
+div.pits {
+  width: 100%;
+}
+
+div.pits > div {
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin: 15px 5px;
+}
+
+div.pitShadow {
+  height: 140px;
+  width: 140px;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 30px 5px;
+  -webkit-box-shadow: inset 5px 5px 15px 5px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: inset 5px 5px 15px 5px rgba(0, 0, 0, 0.6);
+  box-shadow: inset 5px 5px 15px 5px rgba(0, 0, 0, 0.6);
+  text-align: center;
+}
+
+.store {
+  width: 140px;
+  height: 350px;
+  display: inline-block;
+  margin: 30px 10px;
+  -webkit-box-shadow: inset 5px 5px 15px 5px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: inset 5px 5px 15px 5px rgba(0, 0, 0, 0.6);
+  box-shadow: inset 5px 5px 15px 5px rgba(0, 0, 0, 0.6);
+  border-radius: 50px;
+  text-align: center;
+}
+
+div.gemsPitLarge {
+  width: 105px;
+  height: 105px;
+  margin: 18px;
+}
+
+div.gemsPitMedium {
+  width: 77px;
+  height: 77px;
+  margin: 32px;
+}
+
+div.gemsPitSmall {
+  width: 60px;
+  height: 60px;
+  margin: 45px;
+}
+
+div.gemsPitLarge div,
+div.gemsPitMedium div,
+div.gemsPitSmall div,
+div.gemsStore div {
+  float: left;
+}
+
+div.gemsStore {
+  width: 120px;
+  height: 315px;
+  margin: 15px 20px;
+}
+
+img.gem {
+  width: 23px;
+  height: 23px;
+  margin: 1px;
+}
+
+button.startReset {
+  margin: 20px auto;
+  display: block;
+}
+
+div.headingDiv {
+  text-align: center;
+}
+
+span.wrapper {
+  position: relative;
+}
+
+span.heading {
+  font-size: 55px;
+}
+
+img.show {
+  position: absolute;
+  left: -100px;
+  bottom: -5px;
+}
+
+img.hide {
+  display: none;
+}
