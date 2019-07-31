@@ -4,7 +4,11 @@ Bu oyunu es6 ve reactjs konusunda öğrendiklerimi kullanmak için yaptım.
 
 Projede React Hooks kullandım. React Hooks olarak `useState` ve `useEffect` kullandım.
 
-Elimden geldiğince kodu iyileştirmeye çalışacağaım. 
+Elimden geldiğince kodu iyileştirmeye çalışacağım.
+
+## Demo
+
+https://hasankoroglu.github.io/mangala/
 
 ## Özel Teşekkürler
 
