@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mangala/static/css/main.45a36158.chunk.css",
+    "main.js": "/mangala/static/js/main.e64ea86f.chunk.js",
+    "main.js.map": "/mangala/static/js/main.e64ea86f.chunk.js.map",
+    "runtime~main.js": "/mangala/static/js/runtime~main.b35d9d12.js",
+    "runtime~main.js.map": "/mangala/static/js/runtime~main.b35d9d12.js.map",
+    "static/js/2.f5c2ba15.chunk.js": "/mangala/static/js/2.f5c2ba15.chunk.js",
+    "static/js/2.f5c2ba15.chunk.js.map": "/mangala/static/js/2.f5c2ba15.chunk.js.map",
+    "index.html": "/mangala/index.html",
+    "precache-manifest.f5828d7508bf850ecd72bf2e8566f3e7.js": "/mangala/precache-manifest.f5828d7508bf850ecd72bf2e8566f3e7.js",
+    "service-worker.js": "/mangala/service-worker.js",
+    "static/css/main.45a36158.chunk.css.map": "/mangala/static/css/main.45a36158.chunk.css.map",
+    "static/media/index.css": "/mangala/static/media/wood.732ee5d2.jpg"
+  }
+}
